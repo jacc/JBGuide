@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "nord"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3DS devGuide"
+title                    : "iOS 11 JB Guide"
 title_separator          : "-"
-name                     : "Plailect"
-description              : "Full sighax CFW devGuide"
+name                     : "J9ck"
+description              : "Full iOS 11 jailbreak"
 url                      : "https://dev.3ds.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : "dev.3ds.guide"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Plailect/devGuide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jacc/JBGuide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
