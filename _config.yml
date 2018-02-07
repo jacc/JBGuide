@@ -53,8 +53,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : IzU3K8_0o_n4KY_o0Azr6DK7M4aRlZMzrWKr4iyXyrs
-bing_site_verification   : F3532011519E308583A0A2CAF2DD69E8
+google_site_verification : #
+bing_site_verification   : #
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -77,16 +77,16 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-86465881-2"
+    tracking_id          : #
 
 
 # Site Author
 author:
-  name             : "Plailect"
+  name             : "J9ck"
   avatar           : "bio-photo.png"
-  bio              : "3DS Hacker"
-  location         : "Nullsec"
-  email            : "Plailect@gmail.com"
+  bio              : "iOS Developer"
+  location         : "USA"
+  email            : "hi@jlafond.me"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,18 +94,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Plailect"
+  github           : "jacc"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           : "Plailect"
+  lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "Plailect"
+  twitter          : "_j9ck"
   vine             :
   weibo            :
   xing             :
