@@ -20,5 +20,5 @@ title: "FAQ"
 <a name="faq_saveblobs" />**Q:** *How do I save my blobs?*
 **A:** Use <a href="https://tsssaver.1conan.com">1Conan's blob saver</a> to do so.
 
-<a name="faq_ecid" />**Q:** *What's my device's ECID?*
+<a name="faq_ecid" />**Q:** *What's my device's ECID?* 
 **A:** Plug your device into iTunes > find where it says "serial number" > click until you see ECID
