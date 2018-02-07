@@ -6,6 +6,7 @@ If I forgot you here, contact me and I'll add your name.
 
 {% capture notice-1 %}
 
++ plailect (for the source code of the website)
 + coolstar (for the jailbreak)
 + nullpixel (information about jailbreakd and general info)
 
