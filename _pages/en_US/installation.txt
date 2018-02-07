@@ -25,7 +25,10 @@ Drag the .IPA file that you downloaded into Cydia Impactor. If done correctly, i
 
 Unlock your iDevice. If the installation completed, the Electra icon should be shown on your device homescreen.
 
-![]({{ "/images/screenshots/electra-homescreen.jpeg" | absolute_url }})
+![]({{ "/images/screenshots/electra-homescreen.jpg" | absolute_url }})
 {: .notice--info}
 
 You are now ready to install Electra!
+
+Continue to [Jailbreaking](jailbreaking)
+{: .notice--primary}
