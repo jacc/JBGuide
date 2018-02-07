@@ -27,5 +27,5 @@ Before installing Electra, you will need a few things:
 + optional: app-specific password (generated at <a href="https://appleid.apple.com">the Apple Id portal</a>)
 + a few minutes of time
 
-Continue to [ntrboot](ntrboot)
+All done? Continue to [Installation](installation)
 {: .notice--primary}
