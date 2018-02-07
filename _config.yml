@@ -1,3 +1,5 @@
+remote_theme: "mmistakes/minimal-mistakes"
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -215,6 +217,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
