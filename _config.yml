@@ -17,7 +17,7 @@ name                     : "J9ck"
 description              : "Full iOS 11 jailbreak"
 url                      : "https://jacc.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : "https://jacc.github.io/"
-baseurl                  : "https://jacc.github.io/JBGuide"
+baseurl                  : "/JBGuide"
 repository               : "jacc/JBGuide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
