@@ -3,7 +3,6 @@ title: "FAQ"
 ---
 
 <a name="faq_compatibleios" />**Q:** *I am on iOS 11.0 - 11.1.2, is my device hackable?*
-
 **A:** Yes
 
 <a name="faq_uncompatibleios" />**Q:** *I am on iOS 11.2<, is my device hackable?*
