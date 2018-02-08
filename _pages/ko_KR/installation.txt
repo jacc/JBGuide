@@ -1,0 +1,34 @@
+---
+title: "Installation"
+---
+
+{% include toc title="Table of Contents" %}
+
+Have your Apple ID email and password on hand, so you can get ready to enter it when needed.
+{: .notice--info}
+
+## Installation
+
+Once Cydia Impactor is open, it should look something like the image below.
+
+![]({{ "/images/screenshots/impactor-view.png" | absolute_url }})
+{: .notice--info}
+
+Plug your device in. Cydia Impactor should recognize the device.
+
+![]({{ "/images/screenshots/impactor-recognized.png" | absolute_url }})
+{: .notice--info}
+
+Drag the .IPA file that you downloaded into Cydia Impactor. If done correctly, it should ask for your Apple ID email, then password.
+
+## Post Installation
+
+Unlock your iDevice. If the installation completed, the Electra icon should be shown on your device homescreen.
+
+![]({{ "/images/screenshots/electra-homescreen.jpg" | absolute_url }})
+{: .notice--info}
+
+You are now ready to install Electra!
+
+Continue to [Jailbreaking](jailbreaking)
+{: .notice--primary}
