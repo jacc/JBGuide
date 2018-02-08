@@ -1,3 +1,26 @@
 ---
 title: "SSHing Into Your iDevice"
 ---
+
+{% include toc title="Table of Contents" %}
+
+## What is SSHing?
+
+SSH is defined as "SSH, also known as Secure Socket Shell, is a network protocol that provides administrators with a secure way to access a remote computer."
+
+SSH allows you to run commands on your device, much like commands you can run on a computer.
+
+To find your device IP, go to Settings > WiFi > `your router name` > IP Address
+{: .notice--info}
+
+# SSHing into the Device
+Open up your favorite terminal program, and type in this command `root@your-device-ip`.
+
+If done correctly, it should ask for a password. Type in `alpine`.
+
+When logging in, if anything comes up that says "authenticity can't be confirmed" or something of the like, type `yes`.
+{: .notice--warning}
+
+# Navigating
+
+The commands are a bit limited inside the device. However, basic commands like `cd` (change directory) and `ls` (list) are available.

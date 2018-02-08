@@ -26,3 +26,6 @@ After completing 2/3, the device should go black, then a spinning wheel should a
 # Post Jailbreaking
 
 Once your device asks for your passcode, you are now jailbroken! Congrats! The rest of this guide will be how to harness the power of your new found jailbreak.
+
+Continue to [SSHing Into Your Device](ssh)
+{: .notice--primary}
