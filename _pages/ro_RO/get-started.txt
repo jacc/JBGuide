@@ -1,0 +1,31 @@
+---
+title: "Get Started"
+---
+
+{% include toc title="Table of Contents" %}
+
+### Required Reading
+
+Before starting, you may want to install <a href="http://www.ipodhacks142.com/download/tvos-11-beta-profile/">the tvOS beta profile</a>, which prevents OTA updates, which would cause you to lose your jailbreak.
+{: .notice--warning}
+
+{% capture notice-1 %}
+Make sure that you are installing the .IPA from <a href="https://coolstar.org/electra">CoolStar's official website</a>. Anywhere else is unsafe.
+{% endcapture %}
+
+<div class="notice--danger">{{ notice-1 | markdownify }}</div>
+
+___
+### Preparation
+
+Before installing Electra, you will need a few things:
+
++ a computer
++ <a href="https://cydiaimpactor.com">Cydia Impactor</a>
++ Electra's latest .IPA (found at <a href="https://coolstar.org/electra">CoolStar's official website</a>)
++ a Lightning cable for your devices
++ optional: app-specific password (generated at <a href="https://appleid.apple.com">the Apple Id portal</a>)
++ a few minutes of time
+
+All done? Continue to [Installation](installation)
+{: .notice--primary}

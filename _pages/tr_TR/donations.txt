@@ -1,0 +1,8 @@
+---
+title: "Donations"
+---
+
+[![Paypal]({{ "/images/paypal_white.png" | absolute_url }}){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/j9ck/5){: .align-center}
+paypal.me/j9ck
+{: .text-center}
+{: .notice--info}
