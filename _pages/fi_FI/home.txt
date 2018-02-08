@@ -1,0 +1,52 @@
+---
+layout: splash
+title: "iOS11 JB Guide" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: /images/home-page-feature.png
+  overlay_filter: 0.5
+  caption:
+excerpt: "A guide to jailbreaking iOS 11, <br /> from stock iOS to completely jailbroken.<br />"
+---
+
+Please carefully read all of the introductory pages (including this one!) before starting this process.
+{: .notice--warning}
+
+{% capture notice-home %}
+This is for iOS versions <b>11.0 to 11.1.2</b>. Anything higher does not have a jailbreak (yet).
+{% endcapture %}
+
+<div class="notice--danger">{{ notice-home | markdownify }}</div>
+
+## What is jailbreaking?
+
+Jailbreaking is defined as "modify (a smartphone or other electronic device) to remove restrictions imposed by the manufacturer or operator, e.g. to allow the installation of unauthorized software.".
+
+Essentially, jailbreaking allows root access to your iOS device using exploits found in the iOS software.
+
+## What does this guide install?
+
+If followed correctly, this guide will take your stock iOS device and install a semi-untethered jailbreak onto your device.
+
+Electra's core is based around a daemon called **jailbreakd**. A daemon is a process that runs in the background all the time. `jailbreakd` is the daemon that patching setuid for processes, platformising them, and handing certain entitlements out.
+
+Electra is also different from other jailbreaks. Electra is a KPPLess jailbreak; which means that Electra cannot patch the kernel. Using `jailbreakd`, it places patches where kernel patches would usually be.
+
+## What can I do once jailbroken?
+
++ Root file access to your device(s)
++ Install tweaks, which enhance or add new features to your smartphone
++ Install themes, which customize the look and feel of your phone.
+
+## What do I need to know before starting?
+
+Before following the steps of this guide, you must know the risks of jailbreaking: Every time you rejailbreak, install a tweak, respring, or modify your system in any way, there is always a chance that you could either 1. BRICK your device, which CANNOT be fixed (extremely rare), or 2. get caught in a respring loop, causing you to restore, losing your jailbreak. ALWAYS save your blobs so that if this happens, you can get back to a jailbreakable version.
+{: .notice--warning}
++ This guide will work on any device on iOS 11.0-11.1.2
++ If followed from beginning to end, you will be jailbroken without any data loss.
++ Keep the device plugged into to a power source so that any unexpected power off will be prevented.
+
+___
+
+Are you ready? Continue to [Get Started](get-started)
+{: .notice--primary}
