@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "iOS11 JB Guide" #
+title: "iOS 11 JB Guide" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: /images/home-page-feature.png
