@@ -1,0 +1,12 @@
+---
+title: "Preparing for Tweak Installation"
+---
+
+{% include toc title="Table of Contents" %}
+
+## Tweaks
+
+As you know from reading the home page, tweaks allow you to customize your device.
+
+Some tweaks are not compatible with iOS 11. Please check the tweak compatibility list before installing any tweaks
+{: .notice--warning}
