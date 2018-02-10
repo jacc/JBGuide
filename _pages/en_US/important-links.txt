@@ -7,5 +7,5 @@ sitemap: false
 {% capture notice-2 %}
 **Support**
 [/r/jailbreak](https://reddit.com/r/jailbreak)
-
+{% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
