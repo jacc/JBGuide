@@ -15,4 +15,12 @@ Some tweaks are not compatible with iOS 11. Please check the tweak compatibility
 
 To install tweaks, you will need a program that allows SFTP connections. For Windows, this would be `WinSCP`, and on macOS, `Cyberduck`
 
-Once you download the program, find a tweak that you want to install. Usually, tweaks come in the form of `.deb` files. Using a program that allows unzipping of these files (`The Unarchiver` on macOS, and `Altap` on Windows). Once the file is unzipped, there should be three compressed files inside. Look for the one that is marked `data`. Unzip that, and there should be a 
+Once you download the program for your operating software, download the tweak that you would like to install. Usually, this is in the form of a `.deb` file.
+
+![]({{ "/images/screenshots/debview.png" | absolute_url }})
+{: .notice--info}
+
+Double click (or unzip) the `.deb` file. Once unzipped, open the folder. Inside, there should be three files: `control.tar.gz`, `data.tar.gz`, and `debian-binary`. Unzip `data.tar.gz`.
+
+![]({{ "/images/screenshots/unzip.gif" | absolute_url }})
+{: .notice--info}
