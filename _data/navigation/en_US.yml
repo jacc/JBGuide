@@ -12,11 +12,14 @@ main:
   -
     title: Credits
     url: credits
+  -
+    title: Must Install Tweaks
+    url: must-install-tweaks
 bottom:
   -
     title: For support in English, ask for help at <a href="http://reddit.com/r/jailbreak">r/jailbreak</a> or <a href="http://discord.gg/jbk">the jailbreak Discord</a>.
-  # -
-  #   title: If you appreciate this guide, I accept <a href="donations">Donations</a> through <a href="https://www.paypal.me/plailectguides/15">PayPal</a> or <a href="bitcoin:1Ad3PnU6TmJxvJ62LobgMw5uT8hR1LQety">Bitcoin</a>.
+  -
+    title: If you appreciate this guide, I accept <a href="donations">Donations</a> through <a href="https://www.paypal.me/j9ck/5">PayPal</a> or <a href="https://patreon.com/j9ck">Patreon</a>.
 footer:
   -
     title: Source

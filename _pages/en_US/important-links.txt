@@ -1,0 +1,11 @@
+---
+title: "Important Links" #
+sitemap: false
+---
+
+
+{% capture notice-2 %}
+**Support**
+[/r/jailbreak](https://reddit.com/r/jailbreak)
+
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
