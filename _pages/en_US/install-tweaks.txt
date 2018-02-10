@@ -18,7 +18,7 @@ Once open, navigate to the connect section. Make sure that SFTP is selected.
 ![]({{ "/images/screenshots/connection-window.png" | absolute_url }})
 {: .notice--info}
 
-![]({{ "/images/screenshots/select-ftp.png" | absolute_url }})
+![]({{ "/images/screenshots/select-sftp.png" | absolute_url }})
 {: .notice--info}
 
 Now that SFTP is selected, use the IP from [SSHing into your device](ssh) and input it into the field "Server".
