@@ -23,6 +23,7 @@ bottom:
 footer:
   -
     title: Source
+    url: https://github.com/jacc/JBGuide
   -
     title: Site Navigation
 sidebar_title:
