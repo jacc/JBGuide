@@ -39,3 +39,24 @@ Your STFP client should open up to this:
 
 ![]({{ "/images/screenshots/connection-success.png" | absolute_url }})
 {: .notice--info}
+
+# Navigating around
+
+The default directory is `/private/var/root`.
+
+![]({{ "/images/screenshots/privvarroot.png" | absolute_url }})
+{: .notice--info}
+
+This isn't the directory we need however. Using the navigation bar, get to `/`, or root.
+
+Once in root, navigate to the `bootstrap` folder. This is where everything jailbreak-wise is handled.
+
+![]({{ "/images/screenshots/bootstrap-view.png" | absolute_url }})
+{: .notice--info}
+
+Inside `bootstrap`, navigate to `Library`. This is where we will manually install tweaks.
+
+Inside `Library`, there is only 5 important folders that we need: `Application Support`, `PreferenceBundles`, `PreferenceLoader`, `SBInject`, and `Themes`.
+
+![]({{ "/images/screenshots/5important.png" | absolute_url }})
+{: .notice--info}
