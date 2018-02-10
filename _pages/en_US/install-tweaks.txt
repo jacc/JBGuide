@@ -60,3 +60,22 @@ Inside `Library`, there is only 5 important folders that we need: `Application S
 
 ![]({{ "/images/screenshots/5important.png" | absolute_url }})
 {: .notice--info}
+
+Have your `Library` folder open.
+
+Usually, inside the folder, the names will match up. For example, the file inside of `PreferenceBundles` goes inside the `PreferenceBundles` folder of the phone.
+
+However, the files inside `MobileSubstrate` will go inside `SBInject`.
+
+![]({{ "/images/screenshots/dylibs.gif" | absolute_url }})
+{: .notice--info}
+
+## Moving Files
+
+Now that you know where everything goes, start dragging stuff in!
+
+## Respringing
+
+Unless you have [PullToRespring](must-install-tweaks#pulltorespring) installed, you have to manually respring your device.
+
+Using the [SSH](ssh) instructions, SSH into your phone, then run the command `killall -9 backboardd`. This will kill the SpringBoard process, allowing Electra to load the tweak. Once your phone asks for your passcode, the tweak should be installed!
