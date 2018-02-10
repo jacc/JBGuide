@@ -24,3 +24,6 @@ When logging in, if anything comes up that says "authenticity can't be confirmed
 # Navigating
 
 The commands are a bit limited inside the device. However, basic commands like `cd` (change directory) and `ls` (list) are available.
+
+Ready for tweaks? Continue to [Preparing for Tweaks](prepare-tweaks)
+{: .notice--primary}
