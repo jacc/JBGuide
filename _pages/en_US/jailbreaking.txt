@@ -27,5 +27,8 @@ After completing 2/3, the device should go black, then a spinning wheel should a
 
 Once your device asks for your passcode, you are now jailbroken! Congrats! The rest of this guide will be how to harness the power of your new found jailbreak.
 
+If your device restarts, you have to re-run Electra.
+{: .notice--warning}
+
 Continue to [SSHing Into Your Device](ssh)
 {: .notice--primary}
