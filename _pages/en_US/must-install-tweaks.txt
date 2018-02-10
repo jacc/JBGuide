@@ -4,7 +4,7 @@ title: "Must Install Tweaks"
 
 {% include toc title="Table of Contents" %}
 
-## Must Install tweaks
+# Must Install tweaks
 
 These are the tweaks that you want to install as soon as you have jailbroken.
 
@@ -14,19 +14,19 @@ Use our [Prepare Tweaks](prepare-tweaks) and [Installing Tweaks](install-tweaks)
 J9ck, and the editors of this guide whole-heartedly discourage piracy of tweaks.
 {: .notice--warning}
 
-# PullToRespring
+## PullToRespring
 
 [Download](http://idevicehacked.com/assets/deb/pulltorespring.deb)
 
 PullToRespring allows quick and easy resprings. All you have to do to respring is go into your settings and pull down. This will respring your device easily and quickly.
 
-# SystemInfo
+## SystemInfo
 
 [Download](http://apt.thebigboss.org/repofiles/cydia/debs2.0/systeminfo_1.2.1.deb)
 
 SystemInfo adds detailed system info to your device's About page. It adds your ECID (along with the option to save blobs), UDID, Platform, Boot-nonce (and the ability to edit it), and much more.
 
-# TapTapFlip
+## TapTapFlip
 
 [Download](https://repo.cpdigitaldarkroom.com/debs_public//com.cpdigitaldarkroom.taptapflip_1.3.3_iphoneos-arm.deb)
 
