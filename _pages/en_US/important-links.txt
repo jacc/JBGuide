@@ -6,15 +6,14 @@ sitemap: false
 
 {% capture notice-2 %}
 **Support**
-[/r/jailbreak](https://reddit.com/r/jailbreak)
 
+[/r/jailbreak](https://reddit.com/r/jailbreak)
 [/r/jailbreak Discord](https://discord.gg/jb)
 
 **.deb Files**
+
 [@s0n1c_dev's Cydia Searcher](https://s0n1c.org/cydia)
-
 [iPABox's Debs](http://ipabox.store/debs/)
-
 [SparkServer's Tweaks](https://member.sparkservers.co.uk/login)
 
 {% endcapture %}
