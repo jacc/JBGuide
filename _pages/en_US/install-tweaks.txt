@@ -79,3 +79,6 @@ Now that you know where everything goes, start dragging stuff in!
 Unless you have [PullToRespring](must-install-tweaks#pulltorespring) installed, you have to manually respring your device.
 
 Using the [SSH](ssh) instructions, SSH into your phone, then run the command `killall -9 backboardd`. This will kill the SpringBoard process, allowing Electra to load the tweak. Once your phone asks for your passcode, the tweak should be installed!
+
+Ready to theme your device? Continue to [Preparing for Theming](prepare-themes)
+{: .notice--primary}
