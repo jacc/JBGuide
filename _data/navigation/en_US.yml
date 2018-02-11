@@ -1,47 +1,47 @@
 ---
 main:
   -
-    title: iOS 11 Jailbreaking Guide
-    url: /
+    title:     iOS 11 Jailbreaking Guide
+    url:       /
   -
-    title: Installing Tweaks
-    url: install-tweaks
+    title:     Installing Tweaks
+    url:       install-tweaks
   -
-    title: Installing Themes
-    url: install-themes
+    title:     Installing Themes
+    url:       install-themes
   -
-    title: FAQ
-    url: faq
+    title:     Important Links
+    url:       important-links
   -
-    title: Donations
-    url: donations
+    title:     FAQ
+    url:       faq
   -
-    title: Credits
-    url: credits
+    title:     Must Install Tweaks
+    url:       must-install-tweaks
   -
-    title: Must Install Tweaks
-    url: must-install-tweaks
+    title:     Credits
+    url:       credits
   -
-    title: Important Links
-    url: important-links
+    title:     Donations
+    url:       donations
 bottom:
   -
-    title: For support in English, ask for help at <a href="http://reddit.com/r/jailbreak">r/jailbreak</a> or <a href="http://discord.gg/jb">the jailbreak Discord</a>.
+    title:     For support in English, ask for help at <a href="http://reddit.com/r/jailbreak">r/jailbreak</a> or <a href="http://discord.gg/jb">the jailbreak Discord</a>.
   -
-    title: If you appreciate this guide, I accept <a href="donations">Donations</a> through <a href="https://www.paypal.me/j9ck/5">PayPal</a> or <a href="https://patreon.com/j9ck">Patreon</a>.
+    title:     If you appreciate this guide, I accept <a href="donations">Donations</a> through <a href="https://www.paypal.me/j9ck/5">PayPal</a> or <a href="https://patreon.com/j9ck">Patreon</a>.
 footer:
   -
-    title: Source
-    url: https://github.com/jacc/JBGuide
+    title:     Source
+    url:       https://github.com/jacc/JBGuide
   -
-    title: Site Navigation
+    title:     Site Navigation
 sidebar_title:
   -
-    title: Overall Progress
+    title:     Overall Progress
 sidebar_pages:
   -
-    title: Home
-    url: /
+    title:     Home
+    url:       /
   -
-    title: Get Started
-    url: get-started
+    title:     Get Started
+    url:       get-started
