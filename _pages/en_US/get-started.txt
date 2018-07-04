@@ -9,7 +9,7 @@ title: "Get Started"
 Before starting to jailbreak, you might want to download and install the tvOS 12 beta profile. It can be found by Googling. The profile will prevent automatic OTA updates, which could make you not only lose your jailbreak but could mess up your jailbreak.
 {: .notice--warning}
 
-When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at https://tsssaver.1conan.com.
+When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at <a href="https://tsssaver.1conan.com">https://tsssaver.1conan.com</a>.
 {: .notice--warning}
 
 {% capture notice-1 %}
