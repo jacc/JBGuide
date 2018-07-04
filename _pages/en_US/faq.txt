@@ -2,11 +2,11 @@
 title: "FAQ"
 ---
 
-<a name="faq_compatibleios" />**Q:** *I am on iOS 11.0 - 11.1.2, is my device hackable?*<br>
+<a name="faq_compatibleios" />**Q:** *I am on iOS 11.0 - 11.3.1, is my device hackable?*<br>
 **A:** Yes
 
-<a name="faq_uncompatibleios" />**Q:** *I am on iOS 11.2<, is my device hackable?*<br>
-**A:** No
+<a name="faq_uncompatibleios" />**Q:** *I am on iOS 11.3.1<, is my device hackable?*<br>
+**A:** No, not yet at least.
 
 <a name="faq_electra" />**Q:** *What's Electra?*<br>
 **A:** Check the home page for more information.

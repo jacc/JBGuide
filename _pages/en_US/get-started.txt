@@ -6,11 +6,14 @@ title: "Get Started"
 
 ### Required Reading
 
-Before starting, you may want to install <a href="http://www.ipodhacks142.com/download/tvos-11-beta-profile/">the tvOS beta profile</a>, which prevents OTA updates, which would cause you to lose your jailbreak.
+Before starting to jailbreak, you might want to download and install the tvOS 12 beta profile. It can be found by Googling. The profile will prevent automatic OTA updates, which could make you not only lose your jailbreak but could mess up your jailbreak.
+{: .notice--warning}
+
+When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at https://tsssaver.1conan.com. For more information on blobs, see [Blobs](blobs)
 {: .notice--warning}
 
 {% capture notice-1 %}
-Make sure that you are installing the .IPA from <a href="https://coolstar.org/electra">CoolStar's official website</a>. Anywhere else is unsafe.
+Make sure that you are installing the .IPA from <a href="https://coolstar.org/electra">Electra's official website</a>. Anywhere else is unsafe, and could have dylibs for ads and malware injected into it.
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-1 | markdownify }}</div>

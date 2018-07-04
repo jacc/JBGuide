@@ -34,15 +34,16 @@ Electra is also different from other jailbreaks. Electra is a KPPLess jailbreak;
 
 ## What can I do once jailbroken?
 
-+ Root file access to your device(s)
-+ Install tweaks, which enhance or add new features to your smartphone
-+ Install themes, which customize the look and feel of your phone.
++ Root file access to your device(s).
++ Access to Cydia, a powerful package manager that handles all things customization of your iDevice.
++ Install tweaks, which add features to your iDevice.
++ Install themes, which change the look and feel of your icons.
 
 ## What do I need to know before starting?
 
-Before following the steps of this guide, you must know the risks of jailbreaking: Every time you rejailbreak, install a tweak, respring, or modify your system in any way, there is always a chance that you could either 1. BRICK your device, which CANNOT be fixed (extremely rare), or 2. get caught in a respring loop, causing you to restore, losing your jailbreak. ALWAYS save your blobs so that if this happens, you can get back to a jailbreakable version.
+Before following the steps of this guide, you must know the risks of jailbreaking: Every time you rejailbreak, install a tweak, respring, or modify your system in any way, there is always a chance that you could either 1. BRICK your device, which CANNOT be fixed (extremely rare), or 2. get caught in a respring loop, potentially causing you to restore, losing your jailbreak. ALWAYS save your [blobs](faq#faq_saveblobs) and set your [nonce](blobs#nonce) so that if this happens, you can get back to a jailbreakable version.
 {: .notice--warning}
-+ This guide will work on any device on iOS 11.0-11.1.2
++ This guide will work on any device on iOS 11.0-11.3.1
 + If followed from beginning to end, you will be jailbroken without any data loss.
 + Keep the device plugged into to a power source so that any unexpected power off will be prevented.
 
