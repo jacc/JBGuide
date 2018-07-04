@@ -4,7 +4,7 @@ title: "Installation"
 
 {% include toc title="Table of Contents" %}
 
-##Installing Electra via Impactor
+## Installing Electra via Impactor
 
 Once you have gathered everything needed to jailbreak your device, go ahead and start Impactor. It should look like this:
 
