@@ -9,7 +9,7 @@ title: "Get Started"
 Before starting to jailbreak, you might want to download and install the tvOS 12 beta profile. It can be found by Googling. The profile will prevent automatic OTA updates, which could make you not only lose your jailbreak but could mess up your jailbreak.
 {: .notice--warning}
 
-When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at https://tsssaver.1conan.com. For more information on blobs, see [Blobs](blobs)
+When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at https://tsssaver.1conan.com.
 {: .notice--warning}
 
 {% capture notice-1 %}
@@ -27,7 +27,7 @@ Before installing Electra, you will need a few things:
 + <a href="https://cydiaimpactor.com">Cydia Impactor</a>
 + Electra's latest .IPA (found at <a href="https://coolstar.org/electra">CoolStar's official website</a>)
 + a Lightning cable for your devices
-+ optional: app-specific password (generated at <a href="https://appleid.apple.com">the Apple Id portal</a>)
++ optional: app-specific password (generated at <a href="https://appleid.apple.com">the Apple ID portal</a>)
 + a few minutes of time
 
 All done? Continue to [Installation](installation)

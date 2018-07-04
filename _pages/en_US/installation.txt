@@ -1,0 +1,15 @@
+---
+title: "Installation"
+---
+
+{% include toc title="Table of Contents" %}
+
+##Installing Electra via Impactor
+
+Once you have gathered everything needed to jailbreak your device, go ahead and start Impactor. It should look like this:
+
+[![Impactor start up screen]({{ "/images/impactor-view.png" | absolute_url }})]
+
+Go ahead now and plug your iDevice in. If it is recognized without an issue, it should look something like this:
+
+[![Impactor start up screen]({{ "/images/impactor-view.png" | absolute_url }})] 
