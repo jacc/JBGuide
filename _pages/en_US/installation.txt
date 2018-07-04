@@ -2,15 +2,28 @@
 title: "Installation"
 ---
 
-{% include toc title="Table of Contents" %}
-
-## Installing Electra via Impactor
+### Opening Impactor
 
 Once you have gathered everything needed to jailbreak your device, go ahead and start Impactor. It should look like this:
 
-![Impactor start up screen]("/images/screenshots/impactor-view.png")
-
+![Impactor start up screen](/images/screenshots/impactor-view.png)
 
 Go ahead now and plug your iDevice in. If it is recognized without an issue, it should look something like this:
 
-![Impactor start up screen](/images/screenshots/impactor-view.png)
+![Impactor device screen](/images/screenshots/impactor-recognized.png)
+
+### Installing Electra to Device
+
+Once your device is recognized, take the Electra .ipa file that you downloaded and drag it over Impactor.
+
+![Impactor login screen](/images/screenshots/itunes-login.png)
+
+If done correctly, Impactor should ask you for your Apple ID email and password.
+
+Your login is only sent to Apple, and you should not be afraid of your account information being compromised due to using Impactor.
+{: .notice--primary}
+
+![Impactor 2FA error](/images/screenshots/impactor=2fa.png)
+If you have 2FA on your Apple ID, then you will need to generate an app-specific password. If you try to use your normal Apple ID password, the error shown above will appear.
+{: .notice--warning}
+
