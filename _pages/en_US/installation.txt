@@ -13,4 +13,4 @@ Once you have gathered everything needed to jailbreak your device, go ahead and 
 
 Go ahead now and plug your iDevice in. If it is recognized without an issue, it should look something like this:
 
-![Impactor start up screen]({{ "/images/impactor-view.png" | absolute_url }})]
+![Impactor start up screen]({{"/images/impactor-view.png"}})
