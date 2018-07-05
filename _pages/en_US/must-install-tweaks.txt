@@ -12,3 +12,19 @@ These are the tweaks that you want to install as soon as you have jailbroken.
 
 J9ck, and the editors of this guide whole-heartedly discourage piracy of tweaks.
 {: .notice--warning}
+
+## Filza File Manager
+
+**Repo**: BigBoss
+**Development Version**: https://tigisoftware.com/cydia
+
+Filza is a powerful application that allows browsing and modifying of system files, installing .deb files directly from the application, editing .plist files, sharing files between your iDevice and computer, and other extremely useful features.
+
+## Activator
+
+**Repo**: https://rpetri.ch/repo
+
+Activator allows the end user to create actions based on gestures or other button presses on the device to be binded to another extremely useful actions. Activator has been considered a staple in the jailbreaking community for many years.
+
+
+
