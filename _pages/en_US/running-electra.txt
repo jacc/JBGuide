@@ -15,10 +15,26 @@ If all is well, the application should look something like this:
 # Running Electra
 
 The first time you run Electra, it will reboot your device to apply patches for the r/w remount. This is completely normal.
-{: .notice--primary}
+{: .notice--warning}
 
 After the device reboots, reopen the Electra and click jailbreak again.
 
 
 **YOU WILL NOT, I REPEAT **WILL NOT** GET ELECTRA WORKING THE FIRST ATTEMPT IF YOU ARE USING MULTI_PATH/VFS. ELECTRA WILL TAKE MULTIPLE ATTEMPTS. TO INCREASE YOUR CHANCES, TURN ON AIRPLANE MODE, WAIT A FEW MINUTES, THEN TRY TO JAILBREAK AGAIN. THE MEDIAN ATTEMPTS ARE USUALLY AROUND 10-50 TRIES. PLEASE BE PATIENT.
-{: .notice--primary}
+{: .notice--danger}
+
+## Errors Running
+
+There are multiple errors that you can encounter during Electra. Here is a list and their fixes:
+- Error: amfid patch: [Fix](faq#amfid)
+
+# Post Respring
+
+After respringing, reopen Electra. If it succeeded, Electra should look like this:
+
+![Electra after jailbreaking](/images/screenshots/postlectra.jpg)
+
+Cydia should also be installed along side Electra. **Congratulations, your device is now jailbroken!**
+
+If Cydia does not appear after respringing, try to SSH into your device using WinSCP, PuTTY, or Terminal and run `uicache`. If that doesn't make it appear, reboot and try again.
+{: .notice--danger}
