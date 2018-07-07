@@ -13,6 +13,9 @@ title: "FAQ"
 <a name="faq_rootfs" />**Q:** *I keep getting Error: rootfs remount*<br>
 **A:** Close the app and try again.
 
+<a name="faq_package" />**Q:** *I can't install anything because of a Cydia window that says Target Packages*<br>
+**A:** You overwrote some Cydia repos. Uninstall the Packix and HBang repo, which are usually the culprits.
+
 # Misc Questions
 
 <a name="faq_compatibleios" />**Q:** *I am on iOS 11.0 - 11.3.1, is my device hackable?*<br>
