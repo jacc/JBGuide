@@ -26,6 +26,10 @@ Before installing Electra, you will need a few things:
 + a computer
 + <a href="https://cydiaimpactor.com">Cydia Impactor</a>
 + Electra's latest .IPA (found at <a href="https://coolstar.org/electra">CoolStar's official website</a>)
+
+Make sure you have selected the correct .IPA for your version and type. If you are on >11.2, make sure to download the 11.0-11.1.2 .IPA. If you have a developer account and are on 11.3<, use the multi_path .IPA. If not, use the empty_list/vfs exploit.
+{: .notice--warning}
+
 + a Lightning cable for your devices
 + optional: app-specific password (generated at <a href="https://appleid.apple.com">the Apple ID portal</a>)
 + a few minutes of time

@@ -2,6 +2,8 @@
 title: "Installation"
 ---
 
+{% include toc title="Table of Contents" %}
+
 ### Opening Impactor
 
 Once you have gathered everything needed to jailbreak your device, go ahead and start Impactor. It should look like this:
@@ -26,4 +28,11 @@ Your login is only sent to Apple, and you should not be afraid of your account i
 ![Impactor 2FA error](/images/screenshots/impactor=2fa.png)
 If you have 2FA on your Apple ID, then you will need to generate an app-specific password. If you try to use your normal Apple ID password, the error shown above will appear.
 {: .notice--warning}
+
+If done correctly, the Electra application should show up on your homescreen.
+
+![Electra on homescreen](/images/screenshots/electra-icon.jpg)
+
+Are you ready to free your device? Continue to [Running Electra](running-electra)
+{: .notice--primary}
 

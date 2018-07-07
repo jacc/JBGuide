@@ -1,0 +1,24 @@
+---
+title: "Running Electra"
+---
+
+{% include toc title="Table of Contents" %}
+
+# Opening Electra
+
+Once you see the Electra icon on your homescreen, go ahead and open it. (If it gives you an untrusted developer error, go to Settings > General > Profiles > (your Apple ID email) > Trust)
+
+If all is well, the application should look something like this:
+
+![Electra before jailbreaking](/images/screenshots/prelectra.jpg)
+
+# Running Electra
+
+The first time you run Electra, it will reboot your device to apply patches for the r/w remount. This is completely normal.
+{: .notice--primary}
+
+After the device reboots, reopen the Electra and click jailbreak again.
+
+
+**YOU WILL NOT, I REPEAT **WILL NOT** GET ELECTRA WORKING THE FIRST ATTEMPT IF YOU ARE USING MULTI_PATH/VFS. ELECTRA WILL TAKE MULTIPLE ATTEMPTS. TO INCREASE YOUR CHANCES, TURN ON AIRPLANE MODE, WAIT A FEW MINUTES, THEN TRY TO JAILBREAK AGAIN. THE MEDIAN ATTEMPTS ARE USUALLY AROUND 10-50 TRIES. PLEASE BE PATIENT.
+{: .notice--primary}

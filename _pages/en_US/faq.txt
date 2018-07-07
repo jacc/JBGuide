@@ -2,6 +2,16 @@
 title: "FAQ"
 ---
 
+# Common Errors & Fixes
+
+<a name="faq_amfid" />**Q:** *I keep getting Error: amfid patch*<br>
+**A:** Reboot your device and try again.
+
+<a name="faq_13" />**Q:** *I can't get past 1/3*<br>
+**A:** Reboot your device, turn on airplane mode, then wait a minute or two. Try again.
+
+# Misc Questions
+
 <a name="faq_compatibleios" />**Q:** *I am on iOS 11.0 - 11.3.1, is my device hackable?*<br>
 **A:** Yes
 
