@@ -30,6 +30,7 @@ There are multiple errors that you can encounter during Electra. Here is a list 
 - Error: amfid patch: [Fix](faq#amfid)
 - Can't get past 1/3: [Fix](faq#13)
 - Error: rootfs remount: [Fix](faq#rootfs)
+
 # Post Respring
 
 After respringing, reopen Electra. If it succeeded, Electra should look like this:
