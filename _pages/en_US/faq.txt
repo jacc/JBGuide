@@ -8,7 +8,10 @@ title: "FAQ"
 **A:** Reboot your device and try again.
 
 <a name="faq_13" />**Q:** *I can't get past 1/3*<br>
-**A:** Reboot your device, turn on airplane mode, then wait a minute or two. Try again.
+**A:** Reboot your device, turn on airplane mode, disable Siri from settings, then wait a minute or two. Try again.
+
+<a name="faq_rootfs" />**Q:** *I keep getting Error: rootfs remount*<br>
+**A:** Close the app and try again.
 
 # Misc Questions
 

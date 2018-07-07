@@ -34,5 +34,5 @@ If done correctly, the Electra application should show up on your homescreen.
 ![Electra on homescreen](/images/screenshots/electra-icon.jpg)
 
 Are you ready to free your device? Continue to [Running Electra](running-electra)
-{: .notice--warning}
+{: .notice--primary}
 
