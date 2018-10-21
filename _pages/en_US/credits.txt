@@ -6,10 +6,8 @@ If I forgot you here, contact me and I'll add your name.
 
 {% capture notice-1 %}
 
-+ plailect (for the source code of the website)
-+ CoolStar and the Electra Team (for the jailbreak)
-+ nullpixel (information about jailbreakd and general info)
-+ Justin Prolux
++ zoop
++ gang
 
 {% endcapture %}
 

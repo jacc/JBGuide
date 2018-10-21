@@ -1,0 +1,23 @@
+---
+title: "Get Started"
+---
+
+{% include toc title="Table of Contents" %}
+
+### Required Reading
+
+Before starting to jailbreak, you might want to download and install the tvOS 12 beta profile. It can be found by Googling. The profile will prevent automatic OTA updates, which could make you lose your jailbreak.
+{: .notice--warning}
+
+When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at <a href="https://tsssaver.1conan.com">https://tsssaver.1conan.com</a>.
+{: .notice--warning}
+
+<div class="notice--danger">{{ notice-1 | markdownify }}</div>
+
+___
+### Preparation
+
+Head over to <a href="https://ignition.fun">ignition.fun</a> and find **unc0ver v1**. Download it and wait for it to download.
+
+All done downloading? Continue to [Installation](installation-11)
+{: .notice--primary}

@@ -7,11 +7,8 @@ sitemap: false
 **All**
 
 + [Home](home)
-+ [Getting Started / Preparation](get-started)
-+ [Installation](installation)
-+ [Jailbreaking](jailbreaking)
-+ [SSHing into your iDevice](ssh)
-+ [Preparing for Tweak Installation](prepare-tweaks)
-+ [Installing Tweaks](install-tweaks)
+
+**For iOS 11**
++ [Getting Started / Preparation for iOS 11](get-started-11)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
