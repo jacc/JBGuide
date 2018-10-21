@@ -12,8 +12,6 @@ Before starting to jailbreak, you might want to download and install the tvOS 12
 When jailbreaking, it is best to save your blobs using 1Conan's TSSSaver. It can be found at <a href="https://tsssaver.1conan.com">https://tsssaver.1conan.com</a>.
 {: .notice--warning}
 
-<div class="notice--danger">{{ notice-1 | markdownify }}</div>
-
 ___
 ### Preparation
 

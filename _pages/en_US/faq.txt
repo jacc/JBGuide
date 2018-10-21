@@ -1,0 +1,17 @@
+---
+title: "FAQ"
+---
+
+# Common Errors & Fixes
+
+<a name="signing" />**Q:** *What is "signing"?*<br>
+**A:** When new iOS's are released, there is a window where you can upgrade/downgrade to them. This is called the "signing window".
+
+<a name="blobs" />**Q:** *What are "blobs"?*<br>
+**A:** "term for a small piece of data that is part of Apple's digital signature protocol for iOS restores and updates, designed to control the iOS versions that users can install on their iOS devices". It allows you to go back to older iOS versions without them being signed.
+
+<a name="saveblobs" />**Q:** *How do I save my blobs?*<br>
+**A:** Use <a href="https://tsssaver.1conan.com">1Conan's blob saver</a> to do so.
+
+<a name="ecid" />**Q:** *What's my device's ECID?*<br>
+**A:** Plug your device into iTunes > find where it says "serial number" > click until you see ECID
