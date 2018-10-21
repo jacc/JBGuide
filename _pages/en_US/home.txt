@@ -45,5 +45,5 @@ Before following the steps of this guide, you must know the risks of jailbreakin
 
 ___
 
-Are you ready and on a jailbreakable iOS 11 firmware?? Continue to [Get Started for iOS 11](get-started-11)
+Are you ready and on a jailbreakable iOS 11 firmware? Continue to [Get Started for iOS 11](get-started-11)
 {: .notice--primary}
