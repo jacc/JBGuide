@@ -3,7 +3,7 @@ layout: splash
 title: "iOS Jailbreaking Guide" #
 header:
   overlay_color: "#5e616c" #
-  overlay_image: /images/home-page-feature.png
+  overlay_image: /images/home.png
   overlay_filter: 0.5
   caption:
 excerpt: "A guide to jailbreaking your device, <br /> from stock iOS to completely jailbroken.<br />"
